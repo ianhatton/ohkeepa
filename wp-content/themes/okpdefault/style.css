@@ -1,0 +1,14 @@
+/* 
+Theme Name: Oh Kee Pa default
+Description: Default theme for Oh Kee Pa 2013
+Version: 1.0 
+Author: Ian Hatton
+Author URI: http://www.ian-hatton.com
+Template: bp-default 
+Tags: buddypress
+*/
+
+/* Inherit the default theme styles */  
+@import url( ../../plugins/buddypress/bp-themes/bp-default/_inc/css/default.css );  
+/* Inherit the default theme adminbar styles */  
+@import url( ../../plugins/buddypress/bp-themes/bp-default/_inc/css/adminbar.css );  
